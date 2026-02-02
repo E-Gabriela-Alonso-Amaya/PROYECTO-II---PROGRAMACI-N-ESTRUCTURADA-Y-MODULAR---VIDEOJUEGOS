@@ -1,6 +1,7 @@
 # PROYECTO II - ANÁLISIS DE VIDEOJUEGOS
-El programa tiene como objetivo analizar un conjunto de datos de ventas de videojuegos almacenados en el archivo ventas_videojuegos.json y mostrar distintos informes estadísticos por pantalla. Entre los análisis realizados se incluyen las ventas totales por región, los videojuegos más vendidos, el análisis por género, el promedio de ventas por plataforma y el filtrado de juegos por rango de años.
-Para llevar a cabo este análisis, el programa se estructura en varias funciones que trabajan de manera conjunta:
+El programa tiene como objetivo analizar un conjunto de datos de ventas de videojuegos almacenados en el archivo ventas_videojuegos.json y mostrar distintos informes. 
+Se pueden realizar distintos informes se incluyen las ventas totales por región, los videojuegos más vendidos, el análisis por género, el promedio de ventas por plataforma y el filtrado de juegos por rango de años.
+Para llevarlo a cabo, el programa se estructura en varias funciones que trabajan de manera conjunta:
 
 - La función LeerDatosVentas se encarga de leer el archivo ventas_videojuegos.json y devolver su contenido en forma de una lista de diccionarios, donde cada diccionario representa un videojuego. Además, gestiona posibles errores como la ausencia del archivo o un formato JSON incorrecto.
 - La función CalcularVentasTotales recibe la lista de videojuegos y calcula las ventas totales por región (Norteamérica, Europa, Japón, Otros) y las ventas globales.
