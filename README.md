@@ -1,4 +1,4 @@
-# PROYECTO-II---PROGRAMACI-N-ESTRUCTURADA-Y-MODULAR---VIDEOJUEGOS
+# PROYECTO II - ANÁLISIS DE VIDEOJUEGOS
 El programa tiene como objetivo analizar un conjunto de datos de ventas de videojuegos almacenados en el archivo ventas_videojuegos.json y mostrar distintos informes estadísticos por pantalla. Entre los análisis realizados se incluyen las ventas totales por región, los videojuegos más vendidos, el análisis por género, el promedio de ventas por plataforma y el filtrado de juegos por rango de años.
 Para llevar a cabo este análisis, el programa se estructura en varias funciones que trabajan de manera conjunta:
 
